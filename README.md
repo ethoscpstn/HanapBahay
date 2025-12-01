@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HanapBahay Platform
 
 Property listing and rental management system with marketplace listings, ML-powered recommendations, in-app chat, payment uploads, and administrative tooling. This repository contains the PHP codebase, database schema, and support scripts required to deploy the latest Ethos group build.
@@ -25,8 +24,7 @@ Property listing and rental management system with marketplace listings, ML-powe
 | `add_*`/`database_*` SQL & PHP files | Incremental migrations/scripts |
 | `includes/`, `api/`, `public/` | Core app classes, REST endpoints, public assets |
 | `uploads/` | Runtime storage for images, QR codes, receipts (create folders manually) |
-| `ml_service/` | Flask-based helpers for price prediction |
-| `*.md` files | Deployment, fixes, rollback, and quick-start guides |
+| `ml_service/` (if present) | Flask-based helpers for price prediction |
 
 ## Prerequisites
 1. Install [XAMPP](https://www.apachefriends.org/) or equivalent stack with PHP 8+ and MySQL.
@@ -57,7 +55,7 @@ Property listing and rental management system with marketplace listings, ML-powe
      ```bash
      mysql -u root -p dbhanapbahay < dbhanapbahay.sql
      ```
-   - Apply any incremental migrations relevant to your deployment (`add_payment_fields.sql`, `add_property_photos.sql`, `database_updates.php`, etc.). See `QUICK_START.md`, `DEPLOYMENT_CHECKLIST.md`, and `ROLLBACK_PROCEDURES.md` for details.
+   - Apply any incremental migrations relevant to your deployment (`add_payment_fields.sql`, `add_property_photos.sql`, `database_updates.php`, etc.) if those scripts are present in your copy.
 
 4. **File storage**
    Create the folders for runtime uploads (if they do not exist):
@@ -96,19 +94,10 @@ If your actual credentials differ, update this section before submission so revi
 - Visit admin dashboards (e.g., `admin_listings.php`, `admin_transactions.php`) to confirm analytics render.
 
 ## Deployment Notes
-- Review `DEPLOYMENT_CHECKLIST.md`, `LIVE_SITE_IMPLEMENTATION.md`, and `ROLLBACK_PROCEDURES.md` before pushing to production.
+- Before deploying to a live server, review any existing deployment or rollback notes in your copy of the project (if present).
 - For production SMTP, replace placeholder Gmail credentials with an app password or transactional email provider.
 - Keep `config_keys.php`, `config_keys_secure.php`, and any `.env`-style files out of version control; share them securely with the deployment team.
-
-## Support Docs
-- `QUICK_START.md`: five-minute checklist for payments/chat additions.
-- `FIXES_README.md`: catalog of hotfixes and the files they touch.
-- `IMPROVEMENTS_SUMMARY.md`: overview of enhancement iterations.
-- `SECURITY_FIX_REJECTED_LISTINGS.md`: rationale behind recent security updates.
 
 ---
 
 For questions or onboarding help, include reproduction steps, screenshots, and relevant log excerpts (`php-error.log`, `admin_listings_error.log`) when filing issues. With this README plus the existing SQL dump and source code, the GitHub submission tab requirements are satisfied.
-=======
-# HanapBahay
->>>>>>> ccfeabd93c7053ade978b6e9e263e3980ce52da5
