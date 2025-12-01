@@ -1,0 +1,121 @@
+.topFixedBar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #8B4513;
+    height: 75px;
+    z-index: 9999;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    padding: 0 20px; /* Add some horizontal padding */
+}
+
+.topFixedBar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-left: 0; 
+}
+
+.topFixedBar button {
+    background-color: rgba(255, 255, 255, 0.2);
+    border: 1.5px solid white;
+    color: white;
+    font-weight: 600;
+    font-size: 0.9rem;
+    padding: 6px 14px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+    white-space: nowrap; /* prevent button text wrap */
+}
+
+.topFixedBar button:hover {
+    background-color: white;
+    color: #f1c64f;
+    border-color: #f1c64f;
+}
+
+body.bg-soft {
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding-top: 75px; /* push body content below fixed top bar */
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.main-content {
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 75px; /* offset for fixed nav height */
+    box-sizing: border-box;
+}
+
+.layer {
+    padding: 60px 20px;
+    max-width: 1140px;
+    margin: 0 auto 30px auto;
+    border-radius: 12px;
+    color: #333;
+    box-sizing: border-box;
+}
+
+/* Dark mode support for layers */
+[data-theme="dark"] .layer {
+    color: var(--text-primary);
+}
+
+[data-theme="dark"] .layer-1 {
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .layer-3 {
+    background-color: var(--bg-tertiary);
+}
+
+[data-theme="dark"] .layer-4 {
+    background-color: var(--bg-secondary);
+    color: var(--text-primary);
+}
+
+.layer-1 {
+    background-color: #fdf6e3; /* Light warm */
+    min-height: 80px; 
+}
+
+.layer-2 {
+    background-image: url('Assets/Layer-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    min-height: 500px;  
+}
+
+.layer-3 {
+    background-color: #e8f5e9; /* Light green */
+    min-height: 350px; 
+}
+
+.layer-4 {
+    background-image: url('Assets/Layer-4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    min-height: 200px;
+}
+
+.layer h2, .layer h3 {
+    font-weight: 700;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,187 @@
+:root{
+  --hb-brown: #8B4513;
+  --hb-gold:  #f1c64f;
+  --hb-text:  #1f2937;
+  --hb-soft:  #fffdf4;
+  --hb-border:#e5e7eb;
+}
+
+/* Page base */
+body.profile-page{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--hb-soft);
+  color: var(--hb-text);
+  max-width: 100%;
+  overflow-x: hidden;
+  padding: 24px 14px;
+}
+
+/* Centered card look */
+body.profile-page .profile-container {
+  max-width: 720px;
+  width: 100%;
+  background: #fff;
+  border: 1px solid var(--hb-border);
+  border-radius: 14px;
+  padding: 28px 22px 22px;
+  margin: 24px auto;
+  box-shadow: 0 12px 24px rgba(0,0,0,.06);
+}
+
+/* Heading */
+body.profile-page h3{
+  color: var(--hb-brown);
+  font-weight: 800;
+  letter-spacing: .2px;
+  margin-bottom: 18px !important;
+}
+
+/* Form labels & inputs */
+body.profile-page label{
+  font-weight: 600;
+  color: #374151;
+  margin-bottom: 6px;
+}
+
+body.profile-page .form-control{
+  border: 1px solid var(--hb-border);
+  border-radius: 10px;
+  padding: 12px 14px;
+  font-size: 0.98rem;
+  background: #fff;
+  transition: border-color .2s, box-shadow .2s;
+}
+
+body.profile-page .form-control:focus{
+  border-color: var(--hb-gold);
+  box-shadow: 0 0 0 .25rem rgba(241,198,79,.25);
+}
+
+/* Section divider & helper header */
+body.profile-page hr{
+  border-top: 1px solid var(--hb-border);
+  margin: 18px 0 10px;
+}
+
+body.profile-page h6.text-muted{
+  color: #6b7280 !important;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+/* Primary action button (Save) - Higher specificity */
+body.profile-page .btn-save,
+body.profile-page button.btn-save,
+body.profile-page .d-grid .btn-save {
+  background: var(--hb-brown) !important;
+  color: #fff !important;
+  border: none !important;
+  border-radius: 10px !important;
+  padding: 12px 18px !important;
+  font-weight: 700 !important;
+  letter-spacing: .2px !important;
+  transition: background-color .25s, color .25s, transform .06s !important;
+  width: 100% !important;
+  display: inline-block !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  cursor: pointer !important;
+}
+
+body.profile-page .btn-save:hover,
+body.profile-page button.btn-save:hover,
+body.profile-page .d-grid .btn-save:hover {
+  background: var(--hb-gold) !important;
+  color: var(--hb-brown) !important;
+  text-decoration: none !important;
+}
+
+body.profile-page .btn-save:active,
+body.profile-page button.btn-save:active,
+body.profile-page .d-grid .btn-save:active {
+  transform: translateY(1px) !important;
+}
+
+body.profile-page .btn-save:focus,
+body.profile-page button.btn-save:focus,
+body.profile-page .d-grid .btn-save:focus {
+  box-shadow: 0 0 0 .25rem rgba(139, 69, 19, .25) !important;
+  outline: none !important;
+}
+
+/* Secondary action (Back to Dashboard) - Higher specificity */
+body.profile-page .btn-back,
+body.profile-page a.btn-back {
+  background: transparent !important;
+  color: var(--hb-brown) !important;
+  border: 1px dashed var(--hb-brown) !important;
+  border-radius: 10px !important;
+  padding: 10px 14px !important;
+  font-weight: 600 !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  transition: all .2s !important;
+  display: inline-block !important;
+}
+
+body.profile-page .btn-back:hover,
+body.profile-page a.btn-back:hover {
+  background: rgba(241,198,79,.12) !important;
+  border-color: var(--hb-gold) !important;
+  color: var(--hb-brown) !important;
+  text-decoration: none !important;
+}
+
+body.profile-page .btn-back:focus,
+body.profile-page a.btn-back:focus {
+  box-shadow: 0 0 0 .25rem rgba(139, 69, 19, .25) !important;
+  outline: none !important;
+}
+
+/* Cancel button styling */
+body.profile-page .btn-cancel,
+body.profile-page a.btn-cancel {
+  background: transparent !important;
+  color: #6b7280 !important;
+  border: 1px solid #d1d5db !important;
+  border-radius: 10px !important;
+  padding: 10px 14px !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  transition: all .2s !important;
+  display: inline-block !important;
+}
+
+body.profile-page .btn-cancel:hover,
+body.profile-page a.btn-cancel:hover {
+  background: #f9fafb !important;
+  color: #374151 !important;
+  text-decoration: none !important;
+}
+
+/* Bootstrap alerts: just soften corners to match */
+body.profile-page .alert{
+  border-radius: 10px;
+}
+
+/* Small spacing tweak for your existing d-grid wrapper */
+body.profile-page .d-grid.mb-2{ 
+  margin-bottom: 8px !important; 
+}
+
+/* QR Preview styling */
+body.profile-page .qr-preview {
+  max-width: 150px;
+  max-height: 150px;
+  border: 1px solid var(--hb-border);
+  border-radius: 8px;
+}
+
+/* Responsive */
+@media (max-width: 768px){
+  body.profile-page{ padding: 16px 10px; }
+  body.profile-page .profile-container{ padding: 22px 14px; border-radius: 12px; }
+  body.profile-page .form-control{ padding: 11px 12px; }
+  body.profile-page .btn-save,
+  body.profile-page .btn-back{ padding: 10px 14px; }
+}

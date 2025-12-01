@@ -1,0 +1,179 @@
+[19-Sep-2025 08:56:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code_expiry' in 'SET' in /home/u412552698/domains/ethosjru.online/public_html/login_process.php:20
+Stack trace:
+#0 /home/u412552698/domains/ethosjru.online/public_html/login_process.php(20): mysqli->prepare()
+#1 /home/u412552698/domains/ethosjru.online/public_html/login_process.php(60): sendLoginCode()
+#2 {main}
+  thrown in /home/u412552698/domains/ethosjru.online/public_html/login_process.php on line 20
+[19-Sep-2025 08:59:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'login_attempts' in 'SET' in /home/u412552698/domains/ethosjru.online/public_html/login_process.php:20
+Stack trace:
+#0 /home/u412552698/domains/ethosjru.online/public_html/login_process.php(20): mysqli->prepare()
+#1 /home/u412552698/domains/ethosjru.online/public_html/login_process.php(60): sendLoginCode()
+#2 {main}
+  thrown in /home/u412552698/domains/ethosjru.online/public_html/login_process.php on line 20
+[26-Sep-2025 10:51:39 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'u412552698_dbhanapbahay'@'localhost' (using password: YES) in C:\xampp\htdocs\public_html\mysql_connect.php:8
+Stack trace:
+#0 C:\xampp\htdocs\public_html\mysql_connect.php(8): mysqli->__construct('localhost', 'u412552698_dbha...', Object(SensitiveParameterValue), 'u412552698_dbha...')
+#1 C:\xampp\htdocs\public_html\login_process.php(10): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\public_html\mysql_connect.php on line 8
+[02-Oct-2025 11:41:33 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.paymaya_name' in 'SELECT' in /home/u412552698/domains/hanapbahay.online/public_html/property_details.php:43
+Stack trace:
+#0 /home/u412552698/domains/hanapbahay.online/public_html/property_details.php(43): mysqli->prepare()
+#1 {main}
+  thrown in /home/u412552698/domains/hanapbahay.online/public_html/property_details.php on line 43
+[03-Oct-2025 10:09:04 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:09:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:09:07 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:09:08 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:09:11 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:09:12 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:09:18 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:09:43 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:10:32 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:10:33 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:10:34 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[03-Oct-2025 10:11:27 Europe/Berlin] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\hanapbahay current\public_html\DashboardT.php on line 33
+[04-Oct-2025 19:26:27 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'property_photos' in 'field list' in C:\xampp\htdocs\HanapBahay\DashboardT.php:33
+Stack trace:
+#0 C:\xampp\htdocs\HanapBahay\DashboardT.php(33): mysqli->query('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\HanapBahay\DashboardT.php on line 33
+[04-Oct-2025 21:10:38 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'l.property_type' in 'field list' in C:\xampp\htdocs\public_html\property_details.php:45
+Stack trace:
+#0 C:\xampp\htdocs\public_html\property_details.php(45): mysqli->prepare('\r\n  SELECT\r\n   ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\public_html\property_details.php on line 45
+[04-Oct-2025 21:10:50 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'l.property_type' in 'field list' in C:\xampp\htdocs\public_html\property_details.php:45
+Stack trace:
+#0 C:\xampp\htdocs\public_html\property_details.php(45): mysqli->prepare('\r\n  SELECT\r\n   ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\public_html\property_details.php on line 45
+[04-Oct-2025 21:25:56 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\public_html\property_details.php:171
+Stack trace:
+#0 C:\xampp\htdocs\public_html\property_details.php(171): mysqli->prepare('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\public_html\property_details.php on line 171
+[04-Oct-2025 21:26:11 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\public_html\property_details.php:171
+Stack trace:
+#0 C:\xampp\htdocs\public_html\property_details.php(171): mysqli->prepare('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\public_html\property_details.php on line 171
+[04-Oct-2025 21:26:12 Asia/Manila] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\xampp\htdocs\public_html\property_details.php:171
+Stack trace:
+#0 C:\xampp\htdocs\public_html\property_details.php(171): mysqli->prepare('\r\n  SELECT id, ...')
+#1 {main}
+  thrown in C:\xampp\htdocs\public_html\property_details.php on line 171
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\public_html\property_details.php on line 579
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\public_html\property_details.php on line 579
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\public_html\property_details.php on line 580
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\public_html\property_details.php on line 596
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\public_html\property_details.php on line 596
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\public_html\property_details.php on line 597
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\public_html\property_details.php on line 597
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\public_html\property_details.php on line 617
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\public_html\property_details.php on line 619
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\public_html\property_details.php on line 619
+[04-Oct-2025 22:34:14 Asia/Manila] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in C:\xampp\htdocs\public_html\property_details.php on line 619
+[05-Oct-2025 02:04:49 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\public_html\mysql_connect.php:15
+Stack trace:
+#0 C:\xampp\htdocs\public_html\mysql_connect.php(15): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'u412552698_dbha...')
+#1 C:\xampp\htdocs\public_html\login_process.php(10): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\public_html\mysql_connect.php on line 15
+[05-Oct-2025 02:05:14 Asia/Manila] PHP Fatal error:  Uncaught mysqli_sql_exception: No connection could be made because the target machine actively refused it in C:\xampp\htdocs\public_html\mysql_connect.php:15
+Stack trace:
+#0 C:\xampp\htdocs\public_html\mysql_connect.php(15): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'u412552698_dbha...')
+#1 C:\xampp\htdocs\public_html\login_process.php(10): require('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\public_html\mysql_connect.php on line 15
+[11-Oct-2025 14:47:06 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php:108
+Stack trace:
+#0 /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php(108): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php on line 108
+[11-Oct-2025 14:47:11 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php:108
+Stack trace:
+#0 /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php(108): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php on line 108
+[11-Oct-2025 14:48:10 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php:108
+Stack trace:
+#0 /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php(108): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php on line 108
+[11-Oct-2025 14:48:11 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php:108
+Stack trace:
+#0 /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php(108): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php on line 108
+[11-Oct-2025 14:49:19 Asia/Manila] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php:108
+Stack trace:
+#0 /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php(108): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/u412552698/domains/hanapbahay.online/public_html/edit_listing.php on line 108
+[16-Oct-2025 07:47:20 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\public_html\includes\navigation.php on line 3
+[16-Oct-2025 07:52:04 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\public_html\includes\navigation.php on line 3
+[16-Oct-2025 07:56:13 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\public_html\includes\navigation.php on line 3
+[16-Oct-2025 08:00:36 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\public_html\includes\navigation.php on line 3
+[16-Oct-2025 08:03:27 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\public_html\includes\navigation.php on line 3
+[16-Oct-2025 09:22:13 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:25:15 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:27:06 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:37:19 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:37:51 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:40:23 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:42:20 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:43:33 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:48:00 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:52:39 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:52:44 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 09:55:46 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3
+[16-Oct-2025 11:02:51 Asia/Manila] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/u412552698/domains/hanapbahay.online/public_html/includes/navigation.php on line 3

@@ -1,0 +1,62 @@
+# --- BEGIN: Security & base settings ---
+Options -Indexes
+php_flag display_errors off
+
+# --- BEGIN: Clean URLs (.php extensionless) ---
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# Detect if running in subdirectory (local development) or root (production)
+RewriteCond %{REQUEST_URI} ^/public_html/
+RewriteRule ^(.*)$ - [E=IS_SUBDIR:1]
+
+# Redirect .php requests to extensionless URLs (301 permanent redirect)
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+public_html/([^.]+)\.php[?\s] [NC]
+RewriteRule ^ %1 [R=301,L]
+
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/([^.]+)\.php[?\s] [NC]
+RewriteCond %{ENV:IS_SUBDIR} !1
+RewriteRule ^ %1 [R=301,L]
+
+# Remove trailing slashes (except for directories)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ $1 [L,R=301]
+
+# Hide .php extension - add .php to the request internally
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L,QSA]
+</IfModule>
+# --- END: Clean URLs ---
+
+# Prevent direct access to sensitive files
+<FilesMatch "\.(sql|md|log|config)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Security Headers
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+# Enable compression
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Cache static assets
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/jpg "access plus 1 year"
+    ExpiresByType image/jpeg "access plus 1 year"
+    ExpiresByType image/png "access plus 1 year"
+    ExpiresByType image/gif "access plus 1 year"
+    ExpiresByType text/css "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+# --------------------------------

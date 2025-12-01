@@ -1,0 +1,499 @@
+Owner no.,Type,Capacity,Bedroom,Kitchen,Kitchen type,Gender specific,Pets,Unit Size,Price p/month,Location
+Owner1,Studio type,6,1,Yes,Gas,No,No,18 sqm,P8000,"Pasig, San Jose"
+,Apartment,4,1,Yes,Gas,No,No,20 sqm,"P12,000","Pasig, San Jose"
+,Apartment,4,1,Yes,Gas,No,No,20 sqm,"P13,000","Pasig, San Jose"
+Owner2,Studio type,3,2,Yes,Gas,no,No,13 sqm,-,Pasig City
+Owner3,Studio type,3,0,Yes,Electric,No,No,30~ sqm,"P15,000",Sta.ana Manila
+,Studio type,3,0,Yes,Electric,No,No,30~ sqm,"P15,000",Sta.ana Manila
+Owner4,Apartment,3,1,Yes,Gas/Electric,No,Yes,20 sqm,P7000,"Maybunga, Pasig"
+,Apartment,3,1,Yes,Gas/Electric,No,Yes,20 sqm,P7000,"Maybunga, Pasig"
+,Apartment,3,1,Yes,Gas/Electric,No,Yes,20 sqm,P7000,"Maybunga, Pasig"
+Owner5,Condo unit,4,1,Yes,Gas/Electric,No,No,36 sqm,"P25,000","Pasig, Bagong Ilog"
+Owner6,Apartment,6,2,Yes,Electric,No,Yes (Limited to 1),20 sqm,P9000,"Ascoville, Caloocan"
+,Apartment,6,2,Yes,Electric,No,Yes (Limited to 1),20 sqm,P9000,"Ascoville, Caloocan"
+,Apartment,6,2,Yes,Electric,No,Yes (Limited to 1),20 sqm,P9000,"Ascoville, Caloocan"
+Owner7,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+,Apartment,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),-,-,Taguig City
+Owner8,Apartment,6,1,Yes,Gas,No,Yes (Limited to 2),22 sqm,"P10,000",Sta.ana Manila
+,Apartment,6,1,Yes,Gas,No,Yes (Limited to 2),22 sqm,"P10,000",Sta.ana Manila
+,Apartment,4,1,Yes,Gas,No,Yes (Limited to 2),22 sqm,"P10,000",Sta.ana Manila
+,Apartment,5,2,Yes,Gas,No,Yes (Limited to 2),26 sqm,"P12,000",Sta.ana Manila
+Owner9,Studio type,3,0,Yes,Gas,No,Yes (Limited to 1),20~ sqm,P3000,"Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,3,0,Yes,Gas,No,Yes (Limited to 1),20~ sqm,P3000,"Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,3,0,Yes,Gas,No,Yes (Limited to 1),20~ sqm,P3000,"Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,3,0,Yes,Gas,No,Yes (Limited to 1),20~ sqm,P3000,"Pinalad Rd, Pinagbuhatan,Pasig"
+Owner10,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+Owner11,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+,Studio type,4,0,Yes,Gas,No,Yes (Limited to 1),18~ sqm,P8000,Sta.ana Manila
+Owner12,Apartment,4,1,Yes,Gas,No,No,400~ sqm,P10000,"Maybunga, Pasig City"
+Owner13,Condo unit,6,3,Yes ,Gas,No,No,124~ sqm,P10000,"Ortigas, Pasig City"
+Owner14,Condo unit,6,3,Yes,Gas,No,No,124~ sqm,P10000,"Ortigas, Pasig City"
+Owner15,Condo unit,6,3,Yes,Gas,No,No,124~ sqm,P10000,"Ortigas, Pasig City"
+Owner16,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+,Studio type,4,0,Yes,Electric,No,No,25~ sqm,P15000,Makati City
+Owner17,Apartment,4,0,Yes,Gas,No,No,12~ sqm,P10000,"Pinagbuhatan, Esguera, Pasig City"
+,Apartment,4,0,Yes,Gas,No,No,12~ sqm,P10000,"Pinagbuhatan, Esguera, Pasig City"
+,Apartment,4,0,Yes,Gas,No,No,12~ sqm,P10000,"Pinagbuhatan, Esguera, Pasig City"
+,Apartment,4,0,Yes,Gas,No,No,12~ sqm,P10000,"Pinagbuhatan, Esguera, Pasig City"
+,Apartment,4,0,Yes,Gas,No,No,12~ sqm,P10000,"Pinagbuhatan, Esguera, Pasig City"
+,Apartment,4,0,Yes,Gas,No,No,12~ sqm,P10000,"Pinagbuhatan, Esguera, Pasig City"
+,Apartment,4,0,Yes,Gas,No,No,12~ sqm,P10000,"Pinagbuhatan, Esguera, Pasig City"
+Owner18,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+,Studio type,4,0,Yes,Gas/Electric,No,No,20~ sqm,P10000,Taguig City
+Owner19,Apartment,6,2,Yes,Gas,No,Yes (Limited to 1),60~ sqm,P10000,Caloocan City
+,Apartment,6,2,Yes,Gas,No,Yes (Limited to 1),60~ sqm,P10000,Caloocan City
+,Apartment,6,2,Yes,Gas,No,Yes (Limited to 1),60~ sqm,P10000,Caloocan City
+Owner20,Apartment,2,1,Yes,Gas/Electric,No,Yes (Limited to 2),20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas/Electric,No,Yes (Limited to 2),20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas/Electric,No,Yes (Limited to 2),20~ sqm,P10000,Pasig City
+Owner21,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+,Apartment,2,1,Yes,Gas,No,No,20~ sqm,P10000,Pasig City
+Owner22,Studio type,4,1,Yes,Gas,No,No,25~ sqm,P5000,Pasig City
+,Studio type,4,1,Yes,Gas,No,No,25~ sqm,P5000,Pasig City
+Owner23,Studio type,4,0,Yes,Electric,No,Yes (Limited to 1),34~ sqm,P15000,Sta.ana Manila
+Owner24,Studio type,3,1,Yes,Gas,No,No,13 sqm,"P6,000","Pasig, Bagong Ilog"
+,Condo unit,6,2,Yes,Electric,No,No,22 sqm,"P28,000",Pasig City
+Owner25,Studio type,5,3,Yes,Gas,No,No,20~ sqm,"P11,000",Quezon City
+,Condo unit,6,0,Yes,Electric,No,No,30~ sqm,"P25,000","Pasig, San Jose"
+,Apartment,4,2,Yes,Gas/Electric,No,No,26 sqm,"P15,000","Ortigas, Pasig City"
+,Studio type,5,2,Yes,Gas/Electric,No,Yes,22 sqm,"P9,000","Ortigas, Pasig City"
+Owner26,Condo unit,5,1,Yes,Electric,No,No,18~ sqm,"P23,000",Manila City
+,Apartment,4,1,Yes,Gas/Electric,No,No,18 sqm,"P10,000",Sta.ana Manila
+Owner27,Studio type,6,1,Yes,Gas/Electric,No,No,13 sqm,"P10,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Condo unit,6,2,Yes,Gas,No,Yes (Limited to 1),26 sqm,"P22,000","Maybunga, Pasig City"
+Owner28,Condo unit,5,1,Yes,Electric,No,No,36 sqm,"P18,000",Sta.ana Manila
+,Apartment,6,3,Yes,Gas/Electric,No,No,18 sqm,"P18,000",Manila City
+,Apartment,3,1,Yes,Gas,No,No,26 sqm,"P19,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner29,Condo unit,5,0,Yes,Gas,No,No,20~ sqm,"P24,000","Ascoville, Caloocan"
+,Condo unit,6,1,Yes,Gas/Electric,No,No,22 sqm,"P14,000","Maybunga, Pasig City"
+Owner30,Studio type,4,1,Yes,Electric,No,Yes (Limited to 1),22 sqm,"P12,000",Mandaluyong City
+,Studio type,5,0,Yes,Electric,No,Yes,20~ sqm,"P9,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Condo unit,2,1,Yes,Electric,No,Yes (Limited to 1),30~ sqm,"P17,000",Taguig City
+,Condo unit,6,2,Yes,Gas/Electric,No,Yes (Limited to 1),26 sqm,"P24,000",Pasig City
+Owner31,Condo unit,5,0,Yes,Electric,No,No,36 sqm,"P20,000","Pasig, Bagong Ilog"
+,Studio type,6,2,Yes,Gas/Electric,No,Yes (Limited to 1),22 sqm,"P11,000","Maybunga, Pasig"
+,Studio type,4,1,Yes,Gas,No,Yes,20 sqm,"P5,000",Mandaluyong City
+Owner32,Condo unit,3,3,Yes,Electric,No,No,22 sqm,"P22,000","Ascoville, Caloocan"
+,Apartment,5,1,Yes,Electric,No,No,20 sqm,"P15,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,2,3,Yes,Gas,No,No,36 sqm,"P9,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner33,Apartment,4,2,Yes,Gas/Electric,No,No,30~ sqm,"P14,000",Manila City
+,Condo unit,2,3,Yes,Gas/Electric,No,Yes (Limited to 1),36 sqm,"P16,000","Ascoville, Caloocan"
+Owner34,Apartment,4,1,Yes,Electric,No,Yes (Limited to 1),18~ sqm,"P15,000",Manila City
+,Condo unit,2,2,Yes,Gas,No,Yes (Limited to 2),13 sqm,"P13,000",Pasig City
+,Apartment,3,1,Yes,Gas/Electric,No,Yes (Limited to 1),20~ sqm,"P11,000","Maybunga, Pasig City"
+Owner35,Studio type,2,0,Yes,Gas,No,No,20~ sqm,"P10,000","Maybunga, Pasig"
+,Condo unit,3,1,Yes,Electric,No,No,30~ sqm,"P17,000",Taguig City
+,Studio type,2,0,Yes,Electric,No,Yes,36 sqm,"P12,000","Ortigas, Pasig City"
+Owner36,Condo unit,4,3,Yes,Gas,No,No,18~ sqm,"P15,000",Pasig City
+,Apartment,5,3,Yes,Gas,No,No,18 sqm,"P20,000","Pasig, Bagong Ilog"
+Owner37,Condo unit,2,1,Yes,Gas,No,No,36 sqm,"P17,000","Ascoville, Caloocan"
+,Studio type,2,2,Yes,Gas/Electric,No,Yes,18~ sqm,"P8,000",Mandaluyong City
+Owner38,Condo unit,2,1,Yes,Gas/Electric,No,No,18 sqm,"P26,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Condo unit,6,0,Yes,Gas,No,No,22 sqm,"P13,000",Manila City
+Owner39,Apartment,3,3,Yes,Gas,No,No,18 sqm,"P19,000","Ortigas, Pasig City"
+,Condo unit,2,2,Yes,Gas/Electric,No,No,20 sqm,"P23,000",Mandaluyong City
+,Apartment,6,2,Yes,Gas/Electric,No,No,20~ sqm,"P13,000",Sta.ana Manila
+Owner40,Apartment,2,2,Yes,Gas,No,No,30~ sqm,"P13,000",Quezon City
+,Studio type,3,0,Yes,Electric,No,Yes (Limited to 1),30~ sqm,"P12,000","Maybunga, Pasig City"
+Owner41,Studio type,3,3,Yes,Gas/Electric,No,No,36 sqm,"P10,000","Ortigas, Pasig City"
+,Condo unit,2,0,Yes,Electric,No,No,36 sqm,"P14,000","Ascoville, Caloocan"
+,Condo unit,4,0,Yes,Electric,No,No,22 sqm,"P16,000",Taguig City
+,Apartment,4,0,Yes,Gas,No,Yes (Limited to 1),36 sqm,"P11,000","Maybunga, Pasig City"
+Owner42,Condo unit,3,1,Yes,Gas/Electric,No,No,13 sqm,"P18,000","Pasig, San Jose"
+,Studio type,6,0,Yes,Gas,No,No,36 sqm,"P8,000","Maybunga, Pasig City"
+,Condo unit,6,0,Yes,Electric,No,Yes,13 sqm,"P18,000",Pasig City
+Owner43,Studio type,5,0,Yes,Gas/Electric,No,No,20~ sqm,"P12,000",Pasig City
+,Studio type,3,2,Yes,Electric,No,No,18~ sqm,"P10,000","Maybunga, Pasig"
+Owner44,Apartment,3,0,Yes,Electric,No,No,30~ sqm,"P11,000",Pasig City
+,Studio type,6,0,Yes,Electric,No,Yes,26 sqm,"P11,000",Sta.ana Manila
+Owner45,Apartment,3,0,Yes,Gas/Electric,No,Yes (Limited to 1),18~ sqm,"P17,000","Pasig, San Jose"
+,Condo unit,3,1,Yes,Gas,No,No,30~ sqm,"P18,000",Taguig City
+Owner46,Studio type,4,1,Yes,Electric,No,Yes,22 sqm,"P7,000",Quezon City
+,Studio type,6,0,Yes,Gas,No,Yes,20 sqm,"P6,000","Ortigas, Pasig City"
+Owner47,Studio type,3,1,Yes,Gas/Electric,No,Yes (Limited to 1),18 sqm,"P12,000",Manila City
+,Apartment,6,1,Yes,Gas/Electric,No,No,18~ sqm,"P13,000",Quezon City
+Owner48,Condo unit,2,3,Yes,Electric,No,No,18~ sqm,"P12,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,6,3,Yes,Gas/Electric,No,Yes (Limited to 1),20~ sqm,"P5,000",Sta.ana Manila
+,Condo unit,2,2,Yes,Electric,No,Yes (Limited to 2),36 sqm,"P27,000","Maybunga, Pasig"
+Owner49,Condo unit,3,1,Yes,Gas/Electric,No,Yes (Limited to 1),20 sqm,"P19,000",Manila City
+,Studio type,5,2,Yes,Electric,No,No,26 sqm,"P6,000","Maybunga, Pasig City"
+,Condo unit,6,0,Yes,Gas,No,No,20~ sqm,"P30,000","Pasig, Bagong Ilog"
+Owner50,Condo unit,5,0,Yes,Gas/Electric,No,No,18~ sqm,"P20,000",Pasig City
+,Condo unit,5,3,Yes,Gas,No,Yes,13 sqm,"P14,000","Ascoville, Caloocan"
+,Apartment,2,2,Yes,Electric,No,Yes,22 sqm,"P12,000","Ortigas, Pasig City"
+Owner51,Condo unit,5,0,Yes,Electric,No,Yes (Limited to 1),13 sqm,"P26,000",Taguig City
+,Studio type,2,0,Yes,Electric,No,No,26 sqm,"P9,000","Pasig, Bagong Ilog"
+Owner52,Condo unit,6,0,Yes,Gas,No,No,18~ sqm,"P22,000","Pasig, Bagong Ilog"
+,Studio type,3,3,Yes,Gas,No,No,36 sqm,"P12,000",Manila City
+,Condo unit,6,1,Yes,Gas,No,No,20 sqm,"P19,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner53,Apartment,5,3,Yes,Electric,No,No,13 sqm,"P9,000","Pasig, San Jose"
+,Apartment,3,3,Yes,Gas,No,Yes (Limited to 1),36 sqm,"P18,000",Pasig City
+Owner54,Condo unit,4,2,Yes,Gas,No,Yes (Limited to 2),20 sqm,"P13,000",Sta.ana Manila
+,Studio type,4,0,Yes,Gas/Electric,No,No,13 sqm,"P9,000",Manila City
+,Apartment,2,3,Yes,Gas/Electric,No,No,22 sqm,"P11,000","Maybunga, Pasig"
+Owner55,Studio type,3,2,Yes,Electric,No,Yes,20 sqm,"P12,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Apartment,6,0,Yes,Gas/Electric,No,Yes (Limited to 2),20~ sqm,"P18,000",Mandaluyong City
+Owner56,Studio type,2,3,Yes,Gas/Electric,No,Yes (Limited to 2),22 sqm,"P11,000","Maybunga, Pasig"
+,Condo unit,6,0,Yes,Electric,No,No,20~ sqm,"P13,000","Pasig, Bagong Ilog"
+,Studio type,4,1,Yes,Electric,No,No,30~ sqm,"P8,000","Ascoville, Caloocan"
+Owner57,Studio type,4,2,Yes,Gas,No,Yes,30~ sqm,"P7,000",Quezon City
+,Studio type,4,2,Yes,Gas/Electric,No,No,36 sqm,"P12,000","Ascoville, Caloocan"
+,Studio type,3,3,Yes,Gas/Electric,No,No,20~ sqm,"P9,000","Pasig, San Jose"
+Owner58,Apartment,4,2,Yes,Gas,No,No,18~ sqm,"P18,000","Maybunga, Pasig City"
+,Apartment,6,3,Yes,Electric,No,No,30~ sqm,"P18,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Condo unit,3,0,Yes,Gas/Electric,No,No,13 sqm,"P18,000","Maybunga, Pasig City"
+Owner59,Apartment,2,0,Yes,Electric,No,No,20 sqm,"P16,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,4,2,Yes,Electric,No,No,18 sqm,"P6,000","Maybunga, Pasig"
+,Apartment,4,0,Yes,Gas,No,Yes (Limited to 2),20~ sqm,"P19,000","Ortigas, Pasig City"
+,Apartment,2,3,Yes,Gas,No,Yes,20~ sqm,"P11,000",Quezon City
+Owner60,Condo unit,4,0,Yes,Electric,No,Yes (Limited to 2),20~ sqm,"P27,000",Sta.ana Manila
+,Condo unit,4,3,Yes,Gas/Electric,No,Yes (Limited to 1),26 sqm,"P12,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,4,0,Yes,Gas,No,No,13 sqm,"P7,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner61,Studio type,3,1,Yes,Gas/Electric,No,Yes,20~ sqm,"P9,000","Maybunga, Pasig"
+,Studio type,5,0,Yes,Gas/Electric,No,No,13 sqm,"P5,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,4,2,Yes,Electric,No,No,20~ sqm,"P6,000",Sta.ana Manila
+,Apartment,2,0,Yes,Electric,No,Yes (Limited to 2),20~ sqm,"P11,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner62,Apartment,3,3,Yes,Gas/Electric,No,No,18 sqm,"P12,000","Maybunga, Pasig"
+,Apartment,6,0,Yes,Gas,No,Yes (Limited to 1),26 sqm,"P11,000","Pasig, Bagong Ilog"
+,Apartment,4,0,Yes,Electric,No,No,13 sqm,"P16,000","Ortigas, Pasig City"
+,Apartment,6,2,Yes,Electric,No,Yes (Limited to 2),20 sqm,"P9,000","Pasig, Bagong Ilog"
+Owner63,Condo unit,2,3,Yes,Gas,No,Yes (Limited to 1),20 sqm,"P22,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,3,1,Yes,Gas,No,No,18 sqm,"P5,000","Ascoville, Caloocan"
+,Studio type,2,2,Yes,Gas,No,Yes (Limited to 1),20 sqm,"P5,000",Manila City
+,Apartment,6,1,Yes,Electric,No,No,18~ sqm,"P15,000",Sta.ana Manila
+Owner64,Studio type,2,0,Yes,Gas/Electric,No,No,26 sqm,"P6,000","Maybunga, Pasig City"
+,Apartment,4,0,Yes,Electric,No,No,36 sqm,"P20,000",Mandaluyong City
+,Studio type,4,2,Yes,Gas,No,No,30~ sqm,"P8,000",Mandaluyong City
+,Condo unit,6,3,Yes,Gas/Electric,No,No,22 sqm,"P16,000",Taguig City
+Owner65,Studio type,6,1,Yes,Gas,No,No,22 sqm,"P8,000",Sta.ana Manila
+,Studio type,6,1,Yes,Gas,No,Yes (Limited to 2),30~ sqm,"P12,000","Pasig, San Jose"
+,Apartment,3,0,Yes,Gas,No,No,36 sqm,"P11,000",Sta.ana Manila
+Owner66,Condo unit,6,1,Yes,Electric,No,Yes (Limited to 1),36 sqm,"P23,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Apartment,5,0,Yes,Gas,No,No,22 sqm,"P12,000","Pasig, Bagong Ilog"
+,Apartment,6,0,Yes,Gas,No,Yes (Limited to 1),30~ sqm,"P20,000","Maybunga, Pasig City"
+,Studio type,3,0,Yes,Gas,No,Yes (Limited to 2),18 sqm,"P6,000","Pasig, San Jose"
+Owner67,Apartment,5,1,Yes,Gas/Electric,No,No,22 sqm,"P10,000",Mandaluyong City
+,Studio type,5,3,Yes,Gas/Electric,No,No,36 sqm,"P12,000","Ascoville, Caloocan"
+,Condo unit,2,1,Yes,Gas,No,No,22 sqm,"P17,000","Ortigas, Pasig City"
+Owner68,Studio type,6,3,Yes,Electric,No,No,30~ sqm,"P8,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,4,2,Yes,Gas/Electric,No,No,20~ sqm,"P5,000","Ascoville, Caloocan"
+,Condo unit,2,2,Yes,Electric,No,Yes (Limited to 2),13 sqm,"P24,000",Sta.ana Manila
+,Studio type,4,2,Yes,Gas/Electric,No,No,36 sqm,"P9,000",Mandaluyong City
+Owner69,Condo unit,4,2,Yes,Gas,No,Yes,13 sqm,"P27,000","Pasig, San Jose"
+,Condo unit,4,3,Yes,Gas,No,No,22 sqm,"P16,000",Taguig City
+,Apartment,6,0,Yes,Gas,No,Yes (Limited to 1),18 sqm,"P9,000",Quezon City
+,Studio type,6,2,Yes,Gas,No,No,13 sqm,"P9,000",Manila City
+Owner70,Apartment,5,1,Yes,Gas,No,No,22 sqm,"P16,000",Pasig City
+,Condo unit,2,1,Yes,Gas,No,Yes (Limited to 1),20~ sqm,"P21,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Apartment,2,0,Yes,Electric,No,No,20~ sqm,"P11,000","Ortigas, Pasig City"
+Owner71,Apartment,2,0,Yes,Electric,No,No,26 sqm,"P12,000","Maybunga, Pasig"
+,Condo unit,4,0,Yes,Gas,No,No,18~ sqm,"P30,000",Manila City
+,Apartment,3,1,Yes,Electric,No,No,13 sqm,"P15,000",Sta.ana Manila
+Owner72,Studio type,4,3,Yes,Gas/Electric,No,No,18~ sqm,"P11,000","Ortigas, Pasig City"
+,Apartment,5,1,Yes,Gas/Electric,No,No,13 sqm,"P16,000","Maybunga, Pasig"
+,Apartment,3,0,Yes,Electric,No,No,22 sqm,"P9,000",Quezon City
+Owner73,Apartment,5,1,Yes,Gas/Electric,No,No,30~ sqm,"P14,000",Quezon City
+,Apartment,5,3,Yes,Gas/Electric,No,No,36 sqm,"P16,000",Pasig City
+Owner74,Apartment,3,2,Yes,Gas/Electric,No,No,22 sqm,"P20,000",Sta.ana Manila
+,Apartment,4,2,Yes,Electric,No,No,36 sqm,"P11,000","Pasig, Bagong Ilog"
+,Condo unit,4,1,Yes,Gas/Electric,No,No,13 sqm,"P18,000",Quezon City
+Owner75,Apartment,6,1,Yes,Gas,No,No,20 sqm,"P11,000","Pasig, San Jose"
+,Condo unit,3,3,Yes,Gas,No,No,18~ sqm,"P18,000","Pasig, San Jose"
+,Studio type,4,3,Yes,Gas/Electric,No,Yes (Limited to 2),30~ sqm,"P9,000",Manila City
+Owner76,Condo unit,6,3,Yes,Gas,No,Yes,22 sqm,"P15,000",Quezon City
+,Condo unit,6,3,Yes,Electric,No,Yes (Limited to 2),22 sqm,"P21,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner77,Condo unit,3,1,Yes,Gas/Electric,No,Yes,20~ sqm,"P26,000","Ascoville, Caloocan"
+,Apartment,5,0,Yes,Gas,No,No,13 sqm,"P14,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Condo unit,5,0,Yes,Electric,No,No,20 sqm,"P27,000","Ortigas, Pasig City"
+,Studio type,2,3,Yes,Electric,No,No,26 sqm,"P6,000",Manila City
+Owner78,Studio type,6,2,Yes,Electric,No,Yes (Limited to 2),18 sqm,"P12,000","Ascoville, Caloocan"
+,Condo unit,6,0,Yes,Gas,No,No,18~ sqm,"P17,000",Taguig City
+,Condo unit,3,2,Yes,Gas/Electric,No,No,20 sqm,"P19,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner79,Studio type,5,2,Yes,Gas,No,No,22 sqm,"P10,000","Maybunga, Pasig"
+,Apartment,2,3,Yes,Electric,No,No,20~ sqm,"P18,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner80,Studio type,3,0,Yes,Gas,No,No,36 sqm,"P12,000",Sta.ana Manila
+,Condo unit,4,0,Yes,Gas/Electric,No,Yes (Limited to 1),20 sqm,"P12,000","Pinalad Rd, Pinagbuhatan,Pasig"
+Owner81,Studio type,6,1,Yes,Electric,No,Yes (Limited to 2),26 sqm,"P9,000",Manila City
+,Apartment,3,0,Yes,Gas,No,No,13 sqm,"P13,000",Manila City
+,Apartment,4,1,Yes,Gas,No,No,20~ sqm,"P11,000",Mandaluyong City
+,Apartment,4,2,Yes,Gas/Electric,No,No,36 sqm,"P16,000",Mandaluyong City
+Owner82,Condo unit,3,3,Yes,Gas/Electric,No,No,22 sqm,"P25,000","Pasig, Bagong Ilog"
+,Studio type,5,1,Yes,Electric,No,No,20~ sqm,"P6,000",Quezon City
+,Studio type,4,3,Yes,Gas/Electric,No,No,26 sqm,"P8,000",Quezon City
+Owner83,Studio type,4,1,Yes,Gas/Electric,No,No,20~ sqm,"P10,000",Quezon City
+,Condo unit,3,1,Yes,Electric,No,No,20 sqm,"P28,000","Maybunga, Pasig"
+Owner84,Condo unit,6,0,Yes,Gas/Electric,No,Yes (Limited to 2),18~ sqm,"P22,000","Ortigas, Pasig City"
+,Apartment,5,2,Yes,Gas/Electric,No,No,36 sqm,"P14,000",Quezon City
+,Apartment,5,0,Yes,Electric,No,No,26 sqm,"P12,000","Ortigas, Pasig City"
+,Condo unit,3,0,Yes,Gas/Electric,No,Yes (Limited to 2),13 sqm,"P24,000","Maybunga, Pasig City"
+Owner85,Studio type,2,3,Yes,Electric,No,No,26 sqm,"P6,000",Manila City
+,Condo unit,5,2,Yes,Electric,No,No,20 sqm,"P15,000","Pasig, San Jose"
+,Studio type,6,0,Yes,Electric,No,Yes,20~ sqm,"P9,000",Pasig City
+Owner86,Apartment,5,1,Yes,Electric,No,No,36 sqm,"P20,000","Maybunga, Pasig"
+,Apartment,4,0,Yes,Electric,No,No,20~ sqm,"P17,000",Pasig City
+,Apartment,4,3,Yes,Gas/Electric,No,No,18 sqm,"P9,000",Sta.ana Manila
+Owner87,Studio type,4,2,Yes,Gas/Electric,No,No,18 sqm,"P5,000",Pasig City
+,Condo unit,2,0,Yes,Gas/Electric,No,Yes (Limited to 1),18 sqm,"P13,000",Sta.ana Manila
+,Condo unit,2,2,Yes,Electric,No,No,18~ sqm,"P25,000","Pasig, Bagong Ilog"
+Owner88,Studio type,5,1,Yes,Gas,No,No,22 sqm,"P8,000","Ascoville, Caloocan"
+,Apartment,5,3,Yes,Gas,No,Yes (Limited to 2),26 sqm,"P20,000",Sta.ana Manila
+,Condo unit,5,3,Yes,Gas,No,No,26 sqm,"P12,000","Pasig, San Jose"
+,Studio type,5,2,Yes,Gas,No,No,18~ sqm,"P10,000","Pasig, San Jose"
+Owner89,Condo unit,2,3,Yes,Gas,No,Yes (Limited to 2),20 sqm,"P30,000","Pasig, San Jose"
+,Condo unit,2,3,Yes,Electric,No,No,36 sqm,"P23,000",Quezon City
+Owner90,Condo unit,5,0,Yes,Gas/Electric,No,No,26 sqm,"P19,000","Maybunga, Pasig City"
+,Studio type,3,0,Yes,Gas/Electric,No,No,18~ sqm,"P9,000","Ortigas, Pasig City"
+,Condo unit,6,3,Yes,Gas,No,No,30~ sqm,"P15,000",Sta.ana Manila
+,Condo unit,2,0,Yes,Gas/Electric,No,No,18~ sqm,"P20,000","Pasig, Bagong Ilog"
+Owner91,Condo unit,6,2,Yes,Gas,No,No,22 sqm,"P22,000","Maybunga, Pasig City"
+,Apartment,2,3,Yes,Gas,No,No,36 sqm,"P18,000",Sta.ana Manila
+,Condo unit,6,3,Yes,Gas,No,Yes (Limited to 2),26 sqm,"P23,000",Manila City
+,Condo unit,4,1,Yes,Gas,No,No,22 sqm,"P14,000",Taguig City
+Owner92,Condo unit,2,0,Yes,Electric,No,No,18~ sqm,"P17,000","Pinalad Rd, Pinagbuhatan,Pasig"
+,Studio type,6,1,Yes,Electric,No,No,30~ sqm,"P7,000",Mandaluyong City
+Owner93,Condo unit,6,3,Yes,Electric,No,Yes,20 sqm,"P14,000","Alabang, Muntinlupa City"
+,Studio type,5,2,Yes,Gas,No,No,22 sqm,"P12,000","Greenhills, San Juan City"
+Owner94,Studio type,4,2,Yes,Electric,No,Yes (Limited to 1),32 sqm,"P11,000","Bagong Ilog, Pasig City"
+,Condo unit,2,1,Yes,Gas/Electric,No,No,16 sqm,"P23,000","Boni, Mandaluyong City"
+Owner95,Apartment,2,1,Yes,Electric,No,No,16 sqm,"P19,000","Kapitolyo, Pasig City"
+,Apartment,3,2,Yes,Gas,No,Yes,24 sqm,"P20,000","F.T.I., Taguig City"
+,Condo unit,2,1,Yes,Gas/Electric,No,No,30 sqm,"P26,000","Diliman, Quezon City"
+Owner96,Condo unit,4,0,Yes,Gas,No,Yes (Limited to 1),20 sqm,"P24,000","Novaliches, Quezon City"
+,Apartment,2,1,Yes,Gas/Electric,No,No,32 sqm,"P22,000","Ascoville, Caloocan City"
+,Apartment,5,3,Yes,Electric,No,No,18 sqm,"P22,000","Alabang, Muntinlupa City"
+,Condo unit,6,2,Yes,Gas/Electric,No,No,40 sqm,"P27,000","Diliman, Quezon City"
+Owner97,Apartment,2,0,Yes,Gas,No,Yes,16 sqm,"P19,000","Diliman, Quezon City"
+,Apartment,6,0,Yes,Electric,No,Yes,26 sqm,"P18,000","Rockwell, Makati City"
+,Condo unit,4,0,Yes,Gas/Electric,No,No,36 sqm,"P32,000",Las Pinas City
+Owner98,Apartment,5,1,Yes,Gas,No,Yes (Limited to 2),28 sqm,"P20,000",Pateros
+,Apartment,6,1,Yes,Gas,No,Yes (Limited to 1),30 sqm,"P13,000","Sta. Mesa, Manila City"
+,Condo unit,6,1,Yes,Electric,No,Yes (Limited to 1),18 sqm,"P29,000","Ugong, Pasig City"
+Owner99,Apartment,2,0,Yes,Electric,No,No,24 sqm,"P12,000",Navotas City
+,Condo unit,2,0,Yes,Electric,No,Yes (Limited to 1),40 sqm,"P32,000","Sampaloc, Manila City"
+Owner100,Studio type,4,3,Yes,Gas/Electric,No,Yes (Limited to 1),20 sqm,"P10,000","Rockwell, Makati City"
+,Condo unit,4,3,Yes,Gas/Electric,No,No,36 sqm,"P31,000",Paranaque City
+,Apartment,2,1,Yes,Gas,No,No,20 sqm,"P20,000","Alabang, Muntinlupa City"
+Owner101,Studio type,2,1,Yes,Gas,No,Yes (Limited to 1),16 sqm,"P5,000",Malabon City
+,Condo unit,3,2,Yes,Electric,No,No,36 sqm,"P19,000","Diliman, Quezon City"
+,Condo unit,6,3,Yes,Electric,No,Yes (Limited to 1),20 sqm,"P20,000","BGC, Taguig City"
+Owner102,Apartment,5,3,Yes,Gas/Electric,No,No,28 sqm,"P19,000","Maybunga, Pasig City"
+,Condo unit,2,0,Yes,Gas/Electric,No,No,26 sqm,"P15,000","Mall of Asia, Pasay City"
+Owner103,Studio type,5,1,Yes,Electric,No,No,22 sqm,"P8,000","Greenhills, San Juan City"
+,Apartment,6,0,Yes,Gas/Electric,No,Yes (Limited to 2),13 sqm,"P9,000",Muntinlupa City
+,Studio type,3,1,Yes,Electric,No,No,26 sqm,"P11,000","Marikina Heights, Marikina City"
+Owner104,Studio type,5,2,Yes,Electric,No,No,28 sqm,"P15,000","Salcedo Village, Makati City"
+,Condo unit,5,1,Yes,Electric,No,No,20 sqm,"P13,000","Boni, Mandaluyong City"
+Owner105,Studio type,6,3,Yes,Gas/Electric,No,No,30 sqm,"P6,000","Sampaloc, Manila City"
+,Studio type,2,0,Yes,Gas,No,No,36 sqm,"P14,000","Ortigas, Pasig City"
+Owner106,Condo unit,2,1,Yes,Gas/Electric,No,Yes,36 sqm,"P25,000",Malabon City
+,Apartment,3,2,Yes,Electric,No,No,20 sqm,"P19,000",Navotas City
+,Condo unit,4,3,Yes,Gas,No,No,24 sqm,"P31,000","F.T.I., Taguig City"
+Owner107,Studio type,6,2,Yes,Electric,No,Yes (Limited to 1),18 sqm,"P8,000","Kapitolyo, Pasig City"
+,Apartment,4,1,Yes,Gas/Electric,No,Yes,28 sqm,"P18,000",Muntinlupa City
+Owner108,Condo unit,2,1,Yes,Gas,No,Yes (Limited to 1),22 sqm,"P31,000","Alabang, Muntinlupa City"
+,Studio type,4,2,Yes,Gas,No,Yes,32 sqm,"P9,000","Malate, Manila City"
+Owner109,Studio type,2,1,Yes,Gas,No,No,22 sqm,"P7,000",Las Pinas City
+,Condo unit,4,1,Yes,Electric,No,Yes,40 sqm,"P28,000","BF Homes, Paranaque City"
+,Condo unit,2,0,Yes,Gas/Electric,No,Yes (Limited to 2),16 sqm,"P29,000","Commonwealth, Quezon City"
+Owner110,Condo unit,3,3,Yes,Gas,No,No,18 sqm,"P13,000",Mandaluyong City
+,Apartment,3,1,Yes,Gas,No,No,36 sqm,"P20,000",Malabon City
+Owner111,Studio type,5,0,Yes,Gas/Electric,No,Yes (Limited to 2),18 sqm,"P11,000",Caloocan City
+,Condo unit,3,2,Yes,Gas/Electric,No,No,18 sqm,"P15,000","Legazpi Village, Makati City"
+,Apartment,3,1,Yes,Electric,No,No,28 sqm,"P21,000","Project 4, Quezon City"
+,Studio type,3,0,Yes,Gas,No,No,36 sqm,"P12,000","Salcedo Village, Makati City"
+Owner112,Condo unit,6,3,Yes,Gas/Electric,No,No,36 sqm,"P15,000","Novaliches, Quezon City"
+,Studio type,4,1,Yes,Electric,No,No,32 sqm,"P12,000","Tondo, Manila City"
+Owner113,Condo unit,2,1,Yes,Gas,No,No,32 sqm,"P28,000","Tondo, Manila City"
+,Studio type,6,1,Yes,Electric,No,No,24 sqm,"P10,000","Sampaloc, Manila City"
+,Condo unit,4,0,Yes,Electric,No,No,40 sqm,"P28,000","Mall of Asia, Pasay City"
+,Apartment,5,2,Yes,Gas,No,No,30 sqm,"P19,000",Navotas City
+Owner114,Apartment,6,0,Yes,Electric,No,No,22 sqm,"P21,000","Pio del Pilar, Makati City"
+,Condo unit,6,2,Yes,Electric,No,No,28 sqm,"P18,000",Caloocan City
+,Condo unit,5,1,Yes,Gas,No,No,36 sqm,"P25,000",Valenzuela City
+,Studio type,3,2,Yes,Gas,No,No,20 sqm,"P5,000","Malate, Manila City"
+Owner115,Apartment,5,1,Yes,Gas/Electric,No,No,40 sqm,"P18,000",Paranaque City
+,Studio type,3,0,Yes,Electric,No,No,16 sqm,"P9,000",Caloocan City
+,Apartment,2,1,Yes,Electric,No,No,16 sqm,"P16,000","Kapitolyo, Pasig City"
+Owner116,Apartment,6,3,Yes,Gas/Electric,No,Yes (Limited to 1),18 sqm,"P16,000","Marikina Heights, Marikina City"
+,Apartment,3,2,Yes,Electric,No,Yes,30 sqm,"P13,000",Caloocan City
+,Apartment,2,2,Yes,Electric,No,No,20 sqm,"P17,000",Las Pinas City
+Owner117,Studio type,5,1,Yes,Gas,No,No,40 sqm,"P13,000","Rockwell, Makati City"
+,Apartment,6,3,Yes,Gas,No,No,26 sqm,"P17,000","Legazpi Village, Makati City"
+Owner118,Apartment,2,2,Yes,Electric,No,Yes (Limited to 1),22 sqm,"P22,000",Malabon City
+,Apartment,6,1,Yes,Gas,No,No,28 sqm,"P16,000","McKinley, Taguig City"
+,Studio type,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),36 sqm,"P9,000",Valenzuela City
+,Apartment,3,0,Yes,Gas/Electric,No,Yes,26 sqm,"P9,000","Boni, Mandaluyong City"
+Owner119,Studio type,5,1,Yes,Electric,No,No,13 sqm,"P6,000",Pateros
+,Apartment,4,2,Yes,Electric,No,Yes (Limited to 1),26 sqm,"P22,000","Mall of Asia, Pasay City"
+Owner120,Condo unit,6,0,Yes,Gas,No,Yes,24 sqm,"P32,000","Commonwealth, Quezon City"
+,Studio type,2,1,Yes,Gas,No,Yes,20 sqm,"P8,000","Bagong Ilog, Pasig City"
+,Studio type,5,0,Yes,Gas,No,No,32 sqm,"P10,000",Paranaque City
+,Apartment,3,0,Yes,Electric,No,No,18 sqm,"P9,000","McKinley, Taguig City"
+Owner121,Condo unit,3,0,Yes,Gas/Electric,No,Yes (Limited to 1),32 sqm,"P22,000",Valenzuela City
+,Studio type,4,0,Yes,Gas,No,No,32 sqm,"P11,000","Boni, Mandaluyong City"
+,Condo unit,4,0,Yes,Gas/Electric,No,No,30 sqm,"P25,000","Shaw, Mandaluyong City"
+Owner122,Apartment,3,3,Yes,Gas/Electric,No,No,18 sqm,"P19,000","Maybunga, Pasig City"
+,Apartment,6,3,Yes,Electric,No,Yes (Limited to 1),28 sqm,"P18,000","Mall of Asia, Pasay City"
+,Apartment,4,1,Yes,Electric,No,Yes (Limited to 1),16 sqm,"P12,000",Mandaluyong City
+,Apartment,6,3,Yes,Gas,No,No,24 sqm,"P14,000","Ascoville, Caloocan City"
+Owner123,Apartment,4,2,Yes,Gas/Electric,No,Yes (Limited to 1),32 sqm,"P20,000","BF Homes, Paranaque City"
+,Studio type,6,1,Yes,Gas,No,Yes,16 sqm,"P8,000","Cubao, Quezon City"
+,Condo unit,3,3,Yes,Gas/Electric,No,No,36 sqm,"P15,000","Tondo, Manila City"
+Owner124,Apartment,3,2,Yes,Gas/Electric,No,No,36 sqm,"P20,000","Ermita, Manila City"
+,Condo unit,4,3,Yes,Gas/Electric,No,No,40 sqm,"P29,000","Diliman, Quezon City"
+Owner125,Studio type,3,2,Yes,Gas/Electric,No,No,16 sqm,"P6,000","Malate, Manila City"
+,Studio type,3,3,Yes,Gas/Electric,No,Yes,22 sqm,"P9,000","Commonwealth, Quezon City"
+,Studio type,3,2,Yes,Electric,No,No,20 sqm,"P5,000","Diliman, Quezon City"
+Owner126,Condo unit,4,1,Yes,Electric,No,No,36 sqm,"P15,000","Novaliches, Quezon City"
+,Condo unit,4,3,Yes,Electric,No,No,28 sqm,"P13,000","F.T.I., Taguig City"
+,Apartment,5,0,Yes,Electric,No,No,16 sqm,"P20,000","Ortigas, Pasig City"
+Owner127,Apartment,2,1,Yes,Gas/Electric,No,Yes (Limited to 1),16 sqm,"P20,000","Legazpi Village, Makati City"
+,Condo unit,6,1,Yes,Electric,No,No,30 sqm,"P26,000",Valenzuela City
+Owner128,Condo unit,6,0,Yes,Gas/Electric,No,No,32 sqm,"P21,000",Malabon City
+,Condo unit,3,2,Yes,Gas,No,No,36 sqm,"P20,000","Mall of Asia, Pasay City"
+,Condo unit,2,1,Yes,Electric,No,No,13 sqm,"P27,000","Malate, Manila City"
+Owner129,Condo unit,4,3,Yes,Gas/Electric,No,No,16 sqm,"P20,000","F.T.I., Taguig City"
+,Condo unit,6,1,Yes,Gas,No,No,26 sqm,"P32,000","Diliman, Quezon City"
+,Studio type,4,1,Yes,Gas,No,No,16 sqm,"P7,000","Ermita, Manila City"
+Owner130,Condo unit,4,3,Yes,Gas/Electric,No,No,22 sqm,"P26,000","Marikina Heights, Marikina City"
+,Studio type,6,0,Yes,Gas/Electric,No,No,26 sqm,"P9,000","Ugong, Pasig City"
+,Studio type,2,1,Yes,Gas/Electric,No,Yes,36 sqm,"P8,000","Concepcion, Marikina City"
+Owner131,Apartment,6,3,Yes,Gas,No,Yes (Limited to 2),22 sqm,"P15,000",Valenzuela City
+,Condo unit,5,0,Yes,Electric,No,No,28 sqm,"P22,000","F.T.I., Taguig City"
+,Condo unit,2,1,Yes,Electric,No,Yes,24 sqm,"P21,000","Pio del Pilar, Makati City"
+Owner132,Apartment,4,2,Yes,Electric,No,Yes (Limited to 1),16 sqm,"P11,000","Alabang, Muntinlupa City"
+,Condo unit,6,3,Yes,Gas,No,No,26 sqm,"P23,000","F.T.I., Taguig City"
+,Condo unit,5,3,Yes,Gas,No,No,13 sqm,"P16,000","Concepcion, Marikina City"
+,Apartment,5,3,Yes,Gas,No,Yes (Limited to 2),16 sqm,"P18,000","Bagong Ilog, Pasig City"
+Owner133,Studio type,6,3,Yes,Gas,No,Yes (Limited to 2),16 sqm,"P7,000","Salcedo Village, Makati City"
+,Apartment,2,1,Yes,Gas/Electric,No,No,28 sqm,"P20,000","Malate, Manila City"
+,Apartment,5,3,Yes,Gas,No,No,28 sqm,"P13,000","Alabang, Muntinlupa City"
+Owner134,Studio type,4,3,Yes,Gas/Electric,No,No,24 sqm,"P7,000","Greenhills, San Juan City"
+,Apartment,4,3,Yes,Electric,No,No,18 sqm,"P14,000",Navotas City
+,Apartment,6,3,Yes,Electric,No,Yes (Limited to 1),28 sqm,"P20,000",Las Pinas City
+,Studio type,6,3,Yes,Electric,No,No,20 sqm,"P14,000","Rockwell, Makati City"
+Owner135,Studio type,3,2,Yes,Electric,No,No,16 sqm,"P8,000","Boni, Mandaluyong City"
+,Studio type,3,3,Yes,Gas,No,No,36 sqm,"P10,000",Pateros
+,Apartment,6,3,Yes,Gas,No,Yes (Limited to 1),36 sqm,"P24,000","Legazpi Village, Makati City"
+,Condo unit,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),36 sqm,"P30,000","BF Homes, Paranaque City"
+Owner136,Studio type,4,1,Yes,Gas,No,No,40 sqm,"P8,000",Caloocan City
+,Condo unit,2,1,Yes,Gas/Electric,No,No,18 sqm,"P12,000","Kapitolyo, Pasig City"
+Owner137,Apartment,4,2,Yes,Gas,No,No,26 sqm,"P15,000","Sampaloc, Manila City"
+,Condo unit,3,1,Yes,Gas,No,Yes,18 sqm,"P26,000","Ortigas, Pasig City"
+Owner138,Studio type,5,2,Yes,Electric,No,Yes,28 sqm,"P12,000","BF Homes, Paranaque City"
+,Apartment,6,1,Yes,Electric,No,Yes (Limited to 2),16 sqm,"P18,000",Malabon City
+,Apartment,5,2,Yes,Electric,No,No,28 sqm,"P17,000","Legazpi Village, Makati City"
+Owner139,Apartment,6,2,Yes,Electric,No,No,40 sqm,"P22,000","Maybunga, Pasig City"
+,Apartment,4,0,Yes,Gas/Electric,No,Yes (Limited to 1),32 sqm,"P12,000","Project 4, Quezon City"
+,Condo unit,5,2,Yes,Gas/Electric,No,Yes (Limited to 1),20 sqm,"P19,000","Boni, Mandaluyong City"
+,Condo unit,3,2,Yes,Gas/Electric,No,Yes (Limited to 1),36 sqm,"P19,000",Valenzuela City
+Owner140,Studio type,4,3,Yes,Gas/Electric,No,No,13 sqm,"P6,000","Ascoville, Caloocan City"
+,Studio type,4,2,Yes,Electric,No,No,40 sqm,"P9,000",Pateros
+Owner141,Studio type,4,3,Yes,Gas/Electric,No,Yes (Limited to 1),22 sqm,"P6,000","BF Resort, Las Pinas City"
+,Apartment,2,1,Yes,Gas/Electric,No,Yes,20 sqm,"P15,000",Las Pinas City
+,Condo unit,4,0,Yes,Gas,No,No,26 sqm,"P15,000","Novaliches, Quezon City"
+Owner142,Condo unit,4,0,Yes,Gas,No,No,36 sqm,"P32,000",Mandaluyong City
+,Apartment,6,1,Yes,Gas,No,Yes,36 sqm,"P19,000","Commonwealth, Quezon City"
+,Condo unit,4,3,Yes,Gas,No,No,16 sqm,"P13,000",Malabon City
+,Apartment,5,0,Yes,Gas,No,Yes (Limited to 1),16 sqm,"P11,000","Boni, Mandaluyong City"
+Owner143,Condo unit,3,3,Yes,Gas,No,Yes (Limited to 1),36 sqm,"P28,000","Concepcion, Marikina City"
+,Apartment,2,2,Yes,Electric,No,No,20 sqm,"P12,000",Mandaluyong City
+,Apartment,2,2,Yes,Gas/Electric,No,No,30 sqm,"P15,000",Muntinlupa City
+,Apartment,3,0,Yes,Gas,No,Yes,28 sqm,"P19,000",Pasay City
+Owner144,Studio type,3,1,Yes,Gas/Electric,No,No,16 sqm,"P8,000","Ortigas, Pasig City"
+,Studio type,4,1,Yes,Gas,No,No,32 sqm,"P9,000","Sta. Mesa, Manila City"
+Owner145,Studio type,2,1,Yes,Electric,No,Yes (Limited to 1),13 sqm,"P6,000",Muntinlupa City
+,Condo unit,4,0,Yes,Electric,No,No,18 sqm,"P25,000","Commonwealth, Quezon City"
+,Condo unit,2,0,Yes,Electric,No,Yes (Limited to 1),28 sqm,"P28,000","Pio del Pilar, Makati City"
+Owner146,Studio type,6,0,Yes,Gas/Electric,No,No,40 sqm,"P11,000","Marikina Heights, Marikina City"
+,Condo unit,2,0,Yes,Electric,No,No,28 sqm,"P15,000",Las Pinas City
+Owner147,Condo unit,3,0,Yes,Electric,No,Yes,18 sqm,"P30,000","Marikina Heights, Marikina City"
+,Condo unit,4,3,Yes,Gas/Electric,No,No,32 sqm,"P31,000","Kapitolyo, Pasig City"
+,Condo unit,5,0,Yes,Gas,No,Yes (Limited to 1),40 sqm,"P32,000","Bagong Ilog, Pasig City"
+,Condo unit,3,3,Yes,Gas,No,No,28 sqm,"P26,000","Sampaloc, Manila City"
+Owner148,Apartment,4,2,Yes,Gas/Electric,No,Yes (Limited to 2),18 sqm,"P10,000",Pasay City
+,Studio type,2,0,Yes,Gas,No,Yes,26 sqm,"P10,000","Maybunga, Pasig City"
+,Studio type,6,0,Yes,Gas/Electric,No,Yes,32 sqm,"P8,000","Sampaloc, Manila City"
+,Apartment,4,3,Yes,Gas,No,Yes (Limited to 2),40 sqm,"P21,000","Mall of Asia, Pasay City"
+Owner149,Condo unit,3,1,Yes,Electric,No,No,36 sqm,"P18,000","Tondo, Manila City"
+,Apartment,6,2,Yes,Electric,No,Yes,16 sqm,"P15,000","Maybunga, Pasig City"
+,Condo unit,6,0,Yes,Gas/Electric,No,Yes (Limited to 1),32 sqm,"P23,000",Valenzuela City
+Owner150,Condo unit,4,2,Yes,Gas,No,No,24 sqm,"P16,000","Pio del Pilar, Makati City"
+,Condo unit,5,0,Yes,Gas/Electric,No,Yes,18 sqm,"P12,000","Novaliches, Quezon City"
+Owner151,Apartment,5,3,Yes,Gas,No,No,24 sqm,"P20,000","BF Resort, Las Pinas City"
+,Apartment,6,0,Yes,Gas,No,No,13 sqm,"P18,000","Cubao, Quezon City"
+Owner152,Apartment,5,3,Yes,Electric,No,No,32 sqm,"P15,000","Bagong Ilog, Pasig City"
+,Condo unit,2,2,Yes,Gas,No,No,26 sqm,"P30,000","Novaliches, Quezon City"
+Owner153,Apartment,6,0,Yes,Gas,No,No,13 sqm,"P12,000","BF Resort, Las Pinas City"
+,Studio type,4,2,Yes,Gas,No,No,24 sqm,"P11,000","Malate, Manila City"
+,Studio type,3,3,Yes,Gas/Electric,No,No,30 sqm,"P10,000","F.T.I., Taguig City"
+,Studio type,5,0,Yes,Gas,No,No,26 sqm,"P6,000","Diliman, Quezon City"
+Owner154,Condo unit,5,2,Yes,Electric,No,No,16 sqm,"P22,000",Valenzuela City
+,Studio type,6,3,Yes,Electric,No,No,40 sqm,"P8,000","Mall of Asia, Pasay City"
+,Studio type,5,3,Yes,Gas,No,No,30 sqm,"P9,000","Shaw, Mandaluyong City"
+Owner155,Studio type,6,0,Yes,Gas/Electric,No,No,30 sqm,"P10,000","Diliman, Quezon City"
+,Apartment,3,1,Yes,Gas,No,No,16 sqm,"P11,000","Sta. Mesa, Manila City"
+,Condo unit,3,0,Yes,Gas/Electric,No,No,18 sqm,"P32,000","Salcedo Village, Makati City"
+Owner156,Apartment,4,1,Yes,Gas,No,No,28 sqm,"P19,000",Valenzuela City
+,Apartment,4,0,Yes,Gas/Electric,No,No,24 sqm,"P16,000",Pateros
+,Apartment,2,0,Yes,Electric,No,No,24 sqm,"P22,000","Ascoville, Caloocan City"
+,Studio type,6,3,Yes,Gas/Electric,No,Yes,28 sqm,"P5,000",Caloocan City
+Owner157,Condo unit,5,1,Yes,Electric,No,No,13 sqm,"P22,000",Valenzuela City

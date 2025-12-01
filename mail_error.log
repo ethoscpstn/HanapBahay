@@ -1,0 +1,3 @@
+2025-10-02T04:00:39+02:00 - FAILED Gmail (Primary): SMTP Error: Could not authenticate.
+2025-10-02T04:00:41+02:00 - FAILED Gmail (Environment): SMTP Error: Could not authenticate.
+2025-10-02T04:00:43+02:00 - FAILED Gmail (SSL): SMTP Error: Could not authenticate.
